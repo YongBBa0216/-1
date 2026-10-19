@@ -1,0 +1,6 @@
+{
+  "name": "N2-AllocFlow Industrial Gas Dispatch Console",
+  "description": "Liquid Nitrogen Emergency Supply & Quota Allocation Console for industrial cryogenic logistics, pipeline triage, and semiconductor fab safeguarded dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
